@@ -1,3 +1,6 @@
-﻿Lead generation
+
+Lead generation
+Virtual environment
+requierments.txt
 
 
